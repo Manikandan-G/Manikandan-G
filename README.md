@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hi, I’m Manikandan Ganesan — Software & Research Engineer with 6+ years across hardware & software. I’m currently building AI-powered software products using large language models, including RAG-based apps and full-stack AI tools.
+- ⚙️ On the side, I tinker with hardware Raspberry Pi, Arduino, ESP8266 and love exploring new programming languages and emerging tech.
+- 💡 I started as an Embedded Engineer and now build cool AI projects like generative animation tools, predictive models, and chatbots empowered with RAG.
+- 🔧 Tech stack: Python, C/C++, JavaScript, plus frameworks like React, Flask. I’ve implemented OCPP and MQTT protocols, and even wrapped up a degree in Cybersecurity.
+- 🔐 I’m passionate about problem-solving and building secure, scalable solutions.
 
 <!--
 **Manikandan-G/Manikandan-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
